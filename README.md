@@ -40,6 +40,8 @@ Kuis 1 dan 2 mengerjakan soal pilihan ganda pada _platform_ kelas.
 Proyek akhir _bootcamp_ ini yaitu mengirimkan submisi data hasil prediksi sesuai _test case_ yang telah diberikan.
 
 🔗 [Submission via Kaggle](https://www.kaggle.com/competitions/sanbercode-python-ds-dasar-batch18/)<br>
+📝 [Berkas Notebook](final_project/Final_Project.ipynb)<br>
+📁 [Direktori Lengkap](final_project)
 
 ## Dataset
 
